@@ -1,0 +1,34 @@
+asn1crypto==1.5.0
+astroid @ file:///opt/concourse/worker/volumes/live/ae03cca1-3196-4728-484b-27a480b0ea63/volume/astroid_1639044247852/work
+certifi==2021.10.8
+cffi==1.15.0
+charset-normalizer==2.0.12
+cryptography==36.0.1
+flake8 @ file:///opt/conda/conda-bld/flake8_1643087950025/work
+idna==3.3
+install==1.3.5
+isort @ file:///tmp/build/80754af9/isort_1628603791788/work
+lazy-object-proxy @ file:///opt/concourse/worker/volumes/live/e4bc3ba3-f365-4387-5772-cbb667714c62/volume/lazy-object-proxy_1616529072711/work
+mccabe==0.6.1
+mysql-connector-python==8.0.28
+numpy==1.22.3
+oscrypto==1.2.1
+pandas==1.4.1
+platformdirs @ file:///tmp/build/80754af9/platformdirs_1638968569495/work
+protobuf==3.19.4
+pycodestyle @ file:///tmp/build/80754af9/pycodestyle_1615748559966/work
+pycparser==2.21
+pycryptodomex==3.14.1
+pyflakes @ file:///tmp/build/80754af9/pyflakes_1617200973297/work
+PyJWT==2.3.0
+pylint @ file:///opt/concourse/worker/volumes/live/3452572e-d760-42da-5a80-e60bb9c40f79/volume/pylint_1639650626985/work
+pyOpenSSL==21.0.0
+python-dateutil==2.8.2
+pytz==2021.3
+requests==2.27.1
+six==1.16.0
+snowflake-connector-python==2.7.4
+toml @ file:///tmp/build/80754af9/toml_1616166611790/work
+typing-extensions @ file:///tmp/build/80754af9/typing_extensions_1631814937681/work
+urllib3==1.26.8
+wrapt @ file:///opt/concourse/worker/volumes/live/44cb0d08-9295-4ea1-6561-bec2dc079522/volume/wrapt_1638433869252/work
